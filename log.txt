@@ -86,4 +86,143 @@ Artist: Dan
  Song Name: no tears left to cry
  Preview Link: null
  Album: Sweetener
+--------------------------------------------------------
+Artist: Lady
+ Venue: Venkman's
+ Location: Atlanta United States
+ Date of the Event: Saturday, November 3rd 2018, 6:30:00 pm
+--------------------------------------------------------
+ Artist(s): Backstreet Boys
+ Song Name: I Want It That Way
+ Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3b0bbb2564a84a2eb3ad4701ff5376d3
+ Album: The Hits--Chapter One
+--------------------------------------------------------
+ Artist(s): Karaoke Box
+ Song Name: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+ Preview Link: https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=3b0bbb2564a84a2eb3ad4701ff5376d3
+ Album: Karaoke Box: Reggae Greatest Hits
+--------------------------------------------------------
+ Artist(s): Ace of Base
+ Song Name: The Sign
+ Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=3b0bbb2564a84a2eb3ad4701ff5376d3
+ Album: The Sign (US Album) [Remastered]
+--------------------------------------------------------
+Artist: Maroon 5
+ Venue: Summit Music Hall
+ Location: Denver United States
+ Date of the Event: Tuesday, November 20th 2018, 7:00:00 pm
+--------------------------------------------------------
+Artist: Maroon 5
+ Venue: Bowery Ballroom
+ Location: New York United States
+ Date of the Event: Thursday, December 13th 2018, 8:00:00 pm
+--------------------------------------------------------
+Artist:  
+ Venue: Summit Music Hall
+ Location: Denver United States
+ Date of the Event: Tuesday, November 20th 2018, 7:00:00 pm
+--------------------------------------------------------
+Artist:  
+ Venue: Bowery Ballroom
+ Location: New York United States
+ Date of the Event: Thursday, December 13th 2018, 8:00:00 pm
+--------------------------------------------------------
+Artist: undefined
+ Venue: Summit Music Hall
+ Location: Denver United States
+ Date of the Event: Tuesday, November 20th 2018, 7:00:00 pm
+--------------------------------------------------------
+Artist: undefined
+ Venue: Bowery Ballroom
+ Location: New York United States
+ Date of the Event: Thursday, December 13th 2018, 8:00:00 pm
+--------------------------------------------------------
+Artist: undefined
+ Venue: Summit Music Hall
+ Location: Denver United States
+ Date of the Event: Tuesday, November 20th 2018, 7:00:00 pm
+--------------------------------------------------------
+Artist: undefined
+ Venue: Bowery Ballroom
+ Location: New York United States
+ Date of the Event: Thursday, December 13th 2018, 8:00:00 pm
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Avi-Cola Club
+ Location: Valea Postei Romania
+ Date of the Event: Friday, November 9th 2018, 11:00:00 pm
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Floral Belleville
+ Location: Paris France
+ Date of the Event: Sunday, November 11th 2018, 12:00:00 pm
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Szpitalna 1
+ Location: Lesser Voivodeship Poland
+ Date of the Event: Friday, November 16th 2018, 10:30:00 pm
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Supermarket
+ Location: Zurich Switzerland
+ Date of the Event: Saturday, November 17th 2018, 11:00:00 pm
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Szpitalna 1
+ Location: Lesser Voivodeship Poland
+ Date of the Event: Friday, November 23rd 2018, 10:00:00 pm
+--------------------------------------------------------
+ Artist(s): Ace of Base
+ Song Name: The Sign
+ Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=3b0bbb2564a84a2eb3ad4701ff5376d3
+ Album: The Sign (US Album) [Remastered]
+--------------------------------------------------------
+ Artist(s): LANY
+ Song Name: Malibu Nights
+ Preview Link: null
+ Album: Malibu Nights
+--------------------------------------------------------
+ Title: Ninja
+ Release Year: 2009
+ IMDB Rating:5.5
+ Rotten Tomatoes Rating: 5.5/10
+ Country: USA
+ Language: English, Japanese, Russian, Spanish
+ Plot: A westerner named Casey, studying Ninjutsu in Japan, is asked by the Sensei to return to New York to protect the legendary Yoroi Bitsu, an armored chest that contains the weapons of the last Koga Ninja.
+ Actors: Scott Adkins, Tsuyoshi Ihara, Mika Hijii, Todd Jensen
+--------------------------------------------------------
+ Artist(s): Backstreet Boys
+ Song Name: I Want It That Way
+ Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3b0bbb2564a84a2eb3ad4701ff5376d3
+ Album: The Hits--Chapter One
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Avi-Cola Club
+ Location: Valea Postei Romania
+ Date of the Event: Friday, November 9th 2018, 11:00:00 pm
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Floral Belleville
+ Location: Paris France
+ Date of the Event: Sunday, November 11th 2018, 12:00:00 pm
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Szpitalna 1
+ Location: Lesser Voivodeship Poland
+ Date of the Event: Friday, November 16th 2018, 10:30:00 pm
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Supermarket
+ Location: Zurich Switzerland
+ Date of the Event: Saturday, November 17th 2018, 11:00:00 pm
+--------------------------------------------------------
+Artist: Charlie
+ Venue: Szpitalna 1
+ Location: Lesser Voivodeship Poland
+ Date of the Event: Friday, November 23rd 2018, 10:00:00 pm
+--------------------------------------------------------
+ Artist(s): Kanye West
+ Song Name: I Love It (& Lil Pump)
+ Preview Link: null
+ Album: I Love It
 ----------------------------

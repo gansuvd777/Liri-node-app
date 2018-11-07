@@ -43,9 +43,9 @@ function concert (inputs){
     var queryUrl = "https://rest.bandsintown.com/artists/" + inputs + "/events?app_id=codingbootcamp";
     // console.log(response);
     request (queryUrl, function(error, response, body) {
-		if (!inputs){
-        	inputs = 'Maroon 5';
-    	}
+		// if (!inputs){
+        // 	inputs = ' ';
+    	// }
 		if (!error && response.statusCode === 200) {
 			//limiting only first 5
 			var concertThis = JSON.parse(body).slice(0,5);
@@ -71,7 +71,7 @@ function spotify(inputs) {
 
 	var spotify = new Spotify(keys.spotify);
 		if (!inputs){
-        	inputs = 'Heaven';
+        	inputs = 'Ace of Base';
     	}
 		spotify.search({ type: 'track', query: inputs, limit:5 }, function(err, data) {
 			if (err){
