@@ -1,0 +1,89 @@
+Invalid Instruction
+
+---------------------------------------------------
+
+Artist: Adele
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/659a35907dfd65e8da36b1f9129415b749eda99f?cid=3b0bbb2564a84a2eb3ad4701ff5376d3
+Album: 21
+Song: Someone Like You
+----------------------------
+Artist: Dan
+ Venue: Floyd's Bar
+ Location: Victoria United States
+ Date of the Event: Wednesday, November 7th 2018, 7:00:00 pm
+--------------------------------------------------------
+Artist: Dan
+ Venue: The Fyrefly
+ Location: Saint Leonards Australia
+ Date of the Event: Friday, November 9th 2018, 7:30:00 pm
+--------------------------------------------------------
+Artist: Dan
+ Venue: The Oncenter
+ Location: Syracuse United States
+ Date of the Event: Saturday, November 10th 2018, 7:30:00 pm
+--------------------------------------------------------
+Artist: Dan
+ Venue: Floyd's Bar
+ Location: Victoria United States
+ Date of the Event: Wednesday, November 14th 2018, 7:00:00 pm
+--------------------------------------------------------
+Artist: Dan
+ Venue: La Dolce Vita
+ Location: Arvada United States
+ Date of the Event: Sunday, November 18th 2018, 10:00:00 am
+--------------------------------------------------------
+ Artist(s): Kane Brown
+ Song Name: Heaven
+ Preview Link: https://p.scdn.co/mp3-preview/6bdb8646df7ad70bfeb5a5f98910fc4daf998234?cid=3b0bbb2564a84a2eb3ad4701ff5376d3
+ Album: Kane Brown (Deluxe Edition)
+--------------------------------------------------------
+ Artist(s): Zedd
+ Song Name: Happy Now
+ Preview Link: null
+ Album: Happy Now
+--------------------------------------------------------
+ Title: Happy
+ Release Year: 2011
+ IMDB Rating:7.2
+ Rotten Tomatoes Rating: 7.2/10
+ Country: USA
+ Language: English
+ Plot: HAPPY takes us on a journey from the swamps of Louisiana to the slums of Kolkata in search of what really makes people happy. Combining real life stories of people from around the world and...
+ Actors: Marci Shimoff, Ed Diener, Richard Davidson, Mihaly Csikszentmihalyi
+--------------------------------------------------------
+ Title: Sad
+ Release Year: 1983
+ IMDB Rating:7.4
+ Rotten Tomatoes Rating: 7.4/10
+ Country: Soviet Union
+ Language: Russian
+ Plot: N/A
+ Actors: N/A
+--------------------------------------------------------
+ Title: Mr. & Mrs. Smith
+ Release Year: 2005
+ IMDB Rating:6.5
+ Rotten Tomatoes Rating: 6.5/10
+ Country: USA
+ Language: English, Spanish
+ Plot: A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.
+ Actors: Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody
+--------------------------------------------------------
+ Artist(s): Ariana Grande
+ Song Name: no tears left to cry
+ Preview Link: null
+ Album: Sweetener
+--------------------------------------------------------
+ Artist(s): Ariana Grande
+ Song Name: no tears left to cry
+ Preview Link: null
+ Album: Sweetener
+--------------------------------------------------------
+ Artist(s): Ariana Grande
+ Song Name: no tears left to cry
+ Preview Link: null
+ Album: Sweetener
+----------------------------
