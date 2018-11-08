@@ -225,4 +225,49 @@ Artist: Charlie
  Song Name: I Love It (& Lil Pump)
  Preview Link: null
  Album: I Love It
+--------------------------------------------------------
+ Title: Princess
+ Release Year: 2006
+ IMDB Rating:6.8
+ Rotten Tomatoes Rating: 6.8/10
+ Country: Denmark, Germany
+ Language: Danish
+ Plot: Due to his sister's death, the 32 year old August returns and consequently abandons his profession as a missionary priest. His beloved sister Christina, who went from greatness to decay as ...
+ Actors: Thure Lindhardt, Stine Fischer Christensen, Jens Arentzen, Rasmus Bjerg
+--------------------------------------------------------
+ Title: Super
+ Release Year: 2010
+ IMDB Rating:6.8
+ Rotten Tomatoes Rating: 6.8/10
+ Country: USA
+ Language: English
+ Plot: After his wife falls under the influence of a drug dealer, an everyday guy transforms himself into Crimson Bolt, a superhero with the best intentions, but lacking in heroic skills.
+ Actors: Rainn Wilson, Ellen Page, Liv Tyler, Kevin Bacon
+--------------------------------------------------------
+ Title: Mr. Nobody
+ Release Year: 2009
+ IMDB Rating:7.9
+ Rotten Tomatoes Rating: 7.9/10
+ Country: Belgium, Germany, Canada, France, USA, UK
+ Language: English, Mohawk
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+--------------------------------------------------------
+ Title: Love
+ Release Year: 2015
+ IMDB Rating:6.0
+ Rotten Tomatoes Rating: 6.0/10
+ Country: France, Belgium
+ Language: English, French
+ Plot: Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.
+ Actors: Aomi Muyock, Karl Glusman, Klara Kristin, Ugo Fox
+--------------------------------------------------------
+ Title: Love
+ Release Year: 2015
+ IMDB Rating:6.0
+ Rotten Tomatoes Rating: 6.0/10
+ Country: France, Belgium
+ Language: English, French
+ Plot: Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.
+ Actors: Aomi Muyock, Karl Glusman, Klara Kristin, Ugo Fox
 ----------------------------

@@ -43,12 +43,13 @@ function concert (inputs){
     var queryUrl = "https://rest.bandsintown.com/artists/" + inputs + "/events?app_id=codingbootcamp";
     // console.log(response);
     request (queryUrl, function(error, response, body) {
-		// if (!inputs){
-        // 	inputs = ' ';
-    	// }
+		if (!inputs){
+			inputs = 'Mr Nobody';
+    	}
 		if (!error && response.statusCode === 200) {
 			//limiting only first 5
 			var concertThis = JSON.parse(body).slice(0,5);
+
 
 			for (var i = 0; i < concertThis.length; i++){
 				console.log("----------------------------------");
@@ -93,13 +94,13 @@ function spotify(inputs) {
 }
 // node liri.js movie-this '<movie name here>'
 function movie(inputs) {
-
+	if (!inputs){
+		inputs = 'Mr.Nobody';
+	}
 	var queryUrl = "http://www.omdbapi.com/?t=" + inputs + "&y=&plot=short&apikey=40e9cece";
 
 	request(queryUrl, function(error, response, body) {
-		if (!inputs){
-        	inputs = 'Mr. Nobody,';
-    	}
+		
 		if (!error && response.statusCode === 200) {
 			let movieInfo = JSON.parse(body);
 			console.log('----------------------------------');
